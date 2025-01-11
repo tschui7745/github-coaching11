@@ -1,6 +1,6 @@
 def greeting(name):
-    print("Hello, " + name)
+   k print("Hello, " + name)
 
 def goodbye():
-    print("Goodbye")
+    print("Goodbye everyone")
 
